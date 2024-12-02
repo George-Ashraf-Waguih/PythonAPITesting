@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"aac48fb502d1b8d027ef42a3390681c6","name":"Verify if Books are added and deleted using Library API","statistic":{"failed":0,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":3}},{"uid":"a19d637565a3bf7ffa8543a3d8994c59","name":"Github API Validation","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
